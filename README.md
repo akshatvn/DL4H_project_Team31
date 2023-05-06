@@ -33,9 +33,9 @@ e.g.
 ## What we did
 
 First we trained the model in the following ways: 
-1. resnet50 with 20 epochs and 1 run
-2. resnet18 with 20 epochs and 1 run 
+1. resnet50 with 20 epochs and 1 run [notebook here](https://github.com/akshatvn/DL4H_project_Team31/blob/main/results/fitz_resnet18_r1_e20.ipynb)
+2. resnet18 with 20 epochs and 1 run [notebook here](https://github.com/akshatvn/DL4H_project_Team31/blob/main/results/fitz_resnet50_r1_e20.ipynb)
 
-Then we compared the results to see how changing the model affected the hypotheses, for example
+Then we compared the results to see how changing the model affected the hypotheses.
 
 
