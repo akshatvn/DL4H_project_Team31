@@ -50,7 +50,7 @@ e.g.
 
 ## Evaluation code + command
 
-Run the fitz.ipynb notebook for results on the generated prediction sets by altering the `run_dir` variable. 
+Run the [fitz.ipynb](https://github.com/clu5/AAAI-22/blob/main/fitz.ipynb) notebook for results on the generated prediction sets by altering the `run_dir` variable. 
 
 ## Reproducability result
 
